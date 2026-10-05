@@ -1,0 +1,15 @@
+.venv/
+.tools/
+.cache/
+logs/
+profile/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+outputs/
+benchmarks/*.json
+*.safetensors
+*.pt
+.DS_Store
